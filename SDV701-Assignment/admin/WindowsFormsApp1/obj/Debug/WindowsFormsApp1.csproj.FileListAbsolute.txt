@@ -1,0 +1,36 @@
+C:\Users\Keristero\OneDrive - NMIT\SDV701\Stage 1\admin application\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Keristero\OneDrive - NMIT\SDV701\Stage 1\admin application\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Keristero\OneDrive - NMIT\SDV701\Stage 1\admin application\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Keristero\OneDrive - NMIT\SDV701\Stage 1\admin application\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Keristero\OneDrive - NMIT\SDV701\Stage 1\admin application\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frm_home.resources
+C:\Users\Keristero\OneDrive - NMIT\SDV701\Stage 1\admin application\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frm_products.resources
+C:\Users\Keristero\OneDrive - NMIT\SDV701\Stage 1\admin application\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Keristero\OneDrive - NMIT\SDV701\Stage 1\admin application\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Keristero\OneDrive - NMIT\SDV701\Stage 1\admin application\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Keristero\OneDrive - NMIT\SDV701\Stage 1\admin application\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Keristero\OneDrive - NMIT\SDV701\Stage 1\admin application\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Keristero\OneDrive - NMIT\SDV701\Stage 1\admin application\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frm_sales.resources
+C:\Users\Keristero\OneDrive - NMIT\SDV701\Stage 1\admin application\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frm_notices.resources
+C:\Users\Keristero\OneDrive - NMIT\SDV701\Stage 1\admin application\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frm_stock.resources
+C:\Users\Keristero\OneDrive - NMIT\SDV701\Stage 1\admin application\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\RestSharp.dll
+C:\Users\Keristero\OneDrive - NMIT\SDV701\Stage 1\admin application\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Keristero\OneDrive - NMIT\SDV701\Stage 1\admin application\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Keristero\OneDrive - NMIT\SDV701\Stage 1\admin application\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Keristero\OneDrive - NMIT\SDV701\stage2\admin application\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Keristero\OneDrive - NMIT\SDV701\stage2\admin application\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Keristero\OneDrive - NMIT\SDV701\stage2\admin application\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Keristero\OneDrive - NMIT\SDV701\stage2\admin application\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Keristero\OneDrive - NMIT\SDV701\stage2\admin application\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\RestSharp.dll
+C:\Users\Keristero\OneDrive - NMIT\SDV701\stage2\admin application\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Keristero\OneDrive - NMIT\SDV701\stage2\admin application\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Keristero\OneDrive - NMIT\SDV701\stage2\admin application\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Keristero\OneDrive - NMIT\SDV701\stage2\admin application\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Keristero\OneDrive - NMIT\SDV701\stage2\admin application\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Keristero\OneDrive - NMIT\SDV701\stage2\admin application\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Keristero\OneDrive - NMIT\SDV701\stage2\admin application\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Keristero\OneDrive - NMIT\SDV701\stage2\admin application\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Keristero\OneDrive - NMIT\SDV701\stage2\admin application\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmEditProduct.resources
+C:\Users\Keristero\OneDrive - NMIT\SDV701\stage2\admin application\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmHome.resources
+C:\Users\Keristero\OneDrive - NMIT\SDV701\stage2\admin application\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmNotices.resources
+C:\Users\Keristero\OneDrive - NMIT\SDV701\stage2\admin application\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmProducts.resources
+C:\Users\Keristero\OneDrive - NMIT\SDV701\stage2\admin application\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmSales.resources

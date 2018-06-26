@@ -1,0 +1,42 @@
+<head>
+    <meta name="viewport" content="width=device-width,height=device-height initial-scale=1">
+    <style>
+        #div_main{
+            text-align:center;
+            font-size: 1em;
+        }
+        .wideButton{
+            width:100%;
+            margin-top:1em;
+            height:4em;
+            background-color: rgb(100,100,255);
+            border: none;
+            text-decoration: none;
+            color:white;
+            font-size:1em;
+        }
+        
+        .clsNotice{
+            padding:0.5em;
+            margin:1em;
+            background-color: rgba(100,100,255,0.2);
+            text-align:left;
+        }
+        
+    </style>
+    <script src="cls/clsDbObject.js"></script>
+    <script src="cls/clsNotice.js"></script>
+    <script src="DatabaseConnector.js"></script>
+    <script src="index.js" defer></script>
+</head>
+
+<body>
+    <div id="div_main">
+        <h1>Veggie Stall</h1>
+        <button class="wideButton" id="btn_newSale">New Sale</button>
+        <h2>Notices</h2>
+        <div id="div_notices">
+            Loading notices...
+        </div>
+    </div>
+</body>

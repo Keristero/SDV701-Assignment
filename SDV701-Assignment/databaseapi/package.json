@@ -1,0 +1,12 @@
+{
+  "name": "databaseapi",
+  "version": "1.0.0",
+  "description": "Stupid simple JSON database, send GET, POST, PUT and PATCH(delete) requests with `key` and `value` containing the keys and value you wish to modifiy",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Jonathan Nimmo",
+  "license": "ISC"
+}
